@@ -1,7 +1,11 @@
+// изменение темы
+
 const refs = {
     body: document.querySelector('body'),
     switch: document.querySelector('.js-switch-input'),
   };
+
+
   
   const Theme = {
     LIGHT: 'light-theme',
